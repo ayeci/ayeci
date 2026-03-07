@@ -11,27 +11,31 @@
 ### `CORE`：10年超のバックエンド経験を支える中核技術
 
 主力として個人で完結可能なスキルです。
-Java（6.3年）, C#（2.3年）, Excel VBA（5年）, HTML・CSS（5年）, JavaScript/TypeScript（5年）  
+
+> Java（6.3年）, C#（2.3年）, Excel VBA（5年）, HTML・CSS（5年）, JavaScript/TypeScript（5年）  
 MySQL（3.9年）, Oracle（5.2年）
 
 ### `SOLO`：単独で設計・実装・運用まで完結可能な技術
 
 自走して開発・運用が可能なスキルです。
-Python（1年）, PHP（2.4年）, Git（3年）, Bash Script（5年）, PowerShell Script（2年）  
+
+> Python（1年）, PHP（2.4年）, Git（3年）, Bash Script（5年）, PowerShell Script（2年）  
 Photoshop（3年）, Illustrator（3年）  
 AI対話（要件定義・壁打ち：日常利用
 
 ### `ADAPTIVE`：基礎を習得し、拡張中の技術
 
 言語仕様等を確認しながら実務対応可能なスキルです。
-PostgreSQL（0.5年）, Redis（1年）, Spring Boot（0.1年）, React（0.1年）, Salesforce Platform（1.1年）, GAS（1年）  
+
+>PostgreSQL（0.5年）, Redis（1年）, Spring Boot（0.1年）, React（0.1年）, Salesforce Platform（1.1年）, GAS（1年）  
 GitHub Copilot（コーディング支援：日常利用）
 Prompt Engineering（LLM制御：勉強中）
 
 ### その他の経験済の技術
 
-※ ADAPTIVEに満たないような、実務レベルに達していないものは除いています。  
-Perl, Apex(Salesforce), Batch Script, VB.NET, SQL Server, SQLite, Symfoware, Access, Ansible, SVF, SVN  
+※ ADAPTIVEに満たないような、実務レベルに達していないものは除いています。
+
+> Perl, Apex(Salesforce), Batch Script, VB.NET, SQL Server, SQLite, Symfoware, Access, Ansible, SVF, SVN  
 Jersey, WordPress, Glassfish, JSP, JUnit  
 InDesign, Premiere Pro  
 
