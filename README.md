@@ -62,4 +62,4 @@ InDesign, Premiere Pro
 ## ✉ 連絡先
 - [Qiita（ブログ）](https://qiita.com/ayeci)
 - [LinkedIn](https://www.linkedin.com/in/%E9%81%94%E5%93%89-%E5%B1%B1%E5%B7%9D-9567813b0/)
-- [メールアドレス](tatuya@yamakawa.tokyo)
+- [メールアドレス](tatsuya@yamakawa.tokyo)
