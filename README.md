@@ -38,7 +38,7 @@ AI伴走開発（Antigravity + Gemini）の実践事例として開発しまし�
 ### `CORE`：10年超のバックエンド経験を支える中核技術
 
 主力として個人で完結可能なスキルです。
-> Java（6.3年）, C#（2.3年）, Excel VBA（5年）, HTML・CSS（5年）, JavaScript/TypeScript（5年）,
+> Java（6.3年）, C#（2.3年）, Excel VBA（5年）, HTML・CSS（5年）, JavaScript（5年）, TypeScript（2年）,
 > MySQL（3.9年）, Oracle（5.2年）
 
 ### `SOLO`：単独で設計・実装・運用まで完結可能な技術
