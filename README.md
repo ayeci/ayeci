@@ -22,7 +22,8 @@
 ### [EPLogger](https://github.com/ayeci/EPLogger) — 太陽光発電モニタリングダッシュボード
 
 自宅の太陽光発電状況をモニタリングサービスから自動取得・可視化するダッシュボード。
-気象庁・Yahoo!天気APIとも連携し、発電量と気象情報を統合表示。cronによる30分間隔の定期バッチ運用中。
+気象庁・Yahoo!天気APIとも連携し、発電量と気象情報を統合表示。Windowsタスクスケジューラーによる30分間隔の定期バッチ運用。
+毎日7時、12時、17時になるとずんだもんがスピーカーを通して発電状況を教えてくれる。
 - スタック: Python / pandas / Selenium / Flask / Chart.js / Bootstrap 5
 
 ### [Resumaker](https://ayeci.github.io/Resumaker/) — 履歴書生成PWA
